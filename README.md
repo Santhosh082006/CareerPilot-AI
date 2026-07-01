@@ -1,4 +1,4 @@
-# 🚀 CareerPilot AI
+# 🚀 Skill-Pilot AI
 
 An intelligent AI assistant built using Streamlit + Ollama that delivers structured, context-aware answers instead of random chatbot responses.
 
