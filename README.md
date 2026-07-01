@@ -6,7 +6,7 @@ An intelligent AI assistant built using Streamlit + Ollama that delivers structu
 
 ## 🧠 What This Project Does
 
-CareerPilot AI improves normal AI chat by:
+SkillPilot AI improves normal AI chat by:
 
 - Understanding user intent (explain, compare, plan)
 - Structuring responses (Insight → Why → Example → Judgment)
